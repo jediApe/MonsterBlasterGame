@@ -26,7 +26,7 @@ IDE (e.g., IntelliJ IDEA, Eclipse)
 Setup Instructions
 
 Clone the Repository:
-git clone https://github.com/jediApe/monster-blaster.git
+git clone https://github.com/jediApe/MonsterBlasterGame.git
 cd monster-blaster
 
 
@@ -88,4 +88,5 @@ Create a HUD for health, score, and upgrades.
 License
 This project is licensed under the MIT License. See the LICENSE file for details.
 Contact
+
 For questions or suggestions, open an issue or contact [your email or GitHub handle].
